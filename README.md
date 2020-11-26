@@ -8,6 +8,6 @@ Sample website with plenty of files for demos
 
 ## Intro
 Test Intro
-
+Test INTRO
 ## Deployment
-Test dep
+Test dep2
