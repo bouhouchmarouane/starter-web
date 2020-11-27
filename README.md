@@ -12,6 +12,8 @@ Test INTRO
 Test INTRO2
 ## Deployment
 Test dep1
+Test dep2
 Test dep3
+
 
 ##Copyright
