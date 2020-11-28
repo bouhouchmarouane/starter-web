@@ -17,4 +17,4 @@ Test dep3
 
 
 ##Copyright
-2020 Copy
+2020 Copy All rights reserved
